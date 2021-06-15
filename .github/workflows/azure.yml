@@ -1,10 +1,10 @@
 name: AzureAPIAA
 
 env:
-  container_registry: azureapiflask.azurecr.io
-  container_registry_name: azureapiflask.azurecr.io/azureapi/flask:latest
-  resourceGroup: AZ-400
-  appName: azureapiflask1992
+  container_registry: githubactionsaa.azurecr.io
+  container_registry_name: githubactionsaa.azurecr.io/aaflask/flask:latest
+  resourceGroup: githubactionsacr
+  appName: azureapiflaskaa1975
 
 on:
   push:
