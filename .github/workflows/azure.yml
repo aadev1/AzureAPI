@@ -1,4 +1,4 @@
-name: AzureAPI
+name: AzureAPIAA
 
 env:
   container_registry: azureapiflask.azurecr.io
